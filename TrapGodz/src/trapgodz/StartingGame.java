@@ -84,6 +84,7 @@ public class StartingGame extends Applet implements Runnable, KeyListener {
 		anim2.addFrame(charwalk2, 500);
 
 		currentSprite = anim.getImage();
+		System.out.println("Teste2");
 	}
 
 	@Override
