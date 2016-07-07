@@ -13,6 +13,7 @@ public class Animations {
 
 	@SuppressWarnings("rawtypes")
 	public Animations() {
+		System.out.println("Hello World!");
 		frames = new ArrayList();
 		totalDuration = 0;
 
